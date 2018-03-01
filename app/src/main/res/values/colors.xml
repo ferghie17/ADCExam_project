@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="transparent">#00000000</color>
+    <color name="grey_soft">#d9d9d9</color>
+    <color name="border_dark_grey">#939292</color>
+    <color name="lighter_grey">#73202020</color>
+    <color name="profile_gray">#BDBDBD</color>
+    <color name="profile_header_default_bg">#A9A9A9</color>
+    <color name="light_gray">#cccccc</color>
+    <color name="dark_gray">#202020</color>
+    <color name="dark_white">#f2f2f2</color>
+</resources>
