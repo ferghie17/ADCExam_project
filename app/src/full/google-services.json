@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "405527132731",
+    "firebase_url": "https://adcexam-86031.firebaseio.com",
+    "project_id": "adcexam-86031",
+    "storage_bucket": "adcexam-86031.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:405527132731:android:54792b33b3b1bbf1",
+        "android_client_info": {
+          "package_name": "com.adc.takehomeexam.adcexam.full"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "405527132731-75t0s3gj8o8tq81m0he3k5m2shaven6f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.adc.takehomeexam.adcexam",
+            "certificate_hash": "d4f4916b7257d28d38ac90abb37edd57332f1131"
+          }
+        },
+        {
+          "client_id": "405527132731-og4p1a7a745svct93abnge225luudoea.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiWQCeQXje9hQ6E72afN5dgbW2N14bpy4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "405527132731-og4p1a7a745svct93abnge225luudoea.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
